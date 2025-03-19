@@ -1,1 +1,6 @@
 .cabeçalho{background-color: brown;color:black;display:flex;justify-content:center;
+    color:blueviolet;
+    display:blue;
+    justify-content: center;}
+    .imagem-logo{
+        width: 20%;
