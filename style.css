@@ -3,4 +3,9 @@
     display:blue;
     justify-content: center;}
     .imagem-logo{
-        width: 20%;
+        width: 20%
+        }
+        .sobre-carrobaixos{
+            background-color: blue
+            color(srgb red green blue)
+        }    ;
