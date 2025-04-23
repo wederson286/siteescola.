@@ -1,12 +1,22 @@
-.cabeçalho{background-color: brown;color:black;display:flex;justify-content:center;
-    color:blueviolet;
-    display:blue;
+.cabeçalho{background-color: rgb(19, 15, 15);color:black;display:flex;justify-content:center;
+    color:rgb(7, 252, 232);
+    display:rgb(255, 217, 0);
     justify-content: center;}
+
     .imagem-logo{
         width: 20%
         }
         .sobre-carros{
             background-image: linear-gradient(#00fff7,#0000);
-            color: #000;
+            color: #f606fe;
             padding: 24px 0;
+            display: flex;
+            justify-content:center;
+            align-items: center;
         }    
+        .sobre-imagens{
+            width: 25%;
+            .sobre-titulo
+            padding: 30px 0;
+
+        }
