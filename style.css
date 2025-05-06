@@ -18,5 +18,7 @@
             width: 25%;
             .sobre-titulo
             padding: 30px 0;
-
+        }
+        .carros-div-conteudo{
+            width:45%;
         }
